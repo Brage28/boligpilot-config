@@ -1,2 +1,2 @@
-# boligpilot-config
-Status-konfig for BoligPilot-extensionen
+# boligsikt-config
+Status-konfig for Boligsikt-extensionen
